@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wagba Server Side</string>
+    <array name="order_status">
+        <item>Order Requested</item>
+        <item>Order On The Way</item>
+        <item>Order Delivered</item>
+    </array>
+
+</resources>
